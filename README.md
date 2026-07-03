@@ -8,15 +8,15 @@
 
 ### 논문 목록
 
-| 주제 | 폴더 | Pre-report | Implementation | Final Report |
-|---|---|---|---|---|
-| ResNet | [resnet](./resnet/) | [pre-report](./resnet/resnet-pre-report.pdf) | [.ipynb](./resnet/resnet-implementation.ipynb) | [final-report](./resnet/resnet-final-report.pdf) |
-| GAN | [gan](./gan/) | [pre-report](./gan/gan-pre-report.pdf) | [.ipynb](./gan/gan-implementation.ipynb) | [final-report](./gan/gan-final-report.pdf) |
-| CycleGAN | [cyclegan](./cyclegan/) | [pre-report](./cyclegan/cyclegan-pre-report.pdf) | [.ipynb](./cyclegan/cyclegan-implementation.ipynb) | [final-report](./cyclegan/cyclegan-final-report.pdf) |
-| Style Transfer | [style-transfer](./style-transfer/) | [pre-report](./style-transfer/style-transfer-pre-report.pdf) | [.ipynb](./style-transfer/style-transfer-implementation.ipynb) | [final-report](./style-transfer/style-transfer-final-report.pdf) |
-| Vision Transformer | [vision-transformer](./vision-transformer/) | [pre-report](./vision-transformer/vision-transformer-pre-report.pdf) | [.ipynb](./vision-transformer/vision-transformer-implementation.ipynb) | [final-report](./vision-transformer/vision-transformer-final-report.pdf) |
-| Semantic Segmentation | [semantic-segmentation](./semantic-segmentation/) | [pre-report](./semantic-segmentation/semantic-segmentation-pre-report.pdf) | [.ipynb](./semantic-segmentation/semantic-segmentation-implementation.ipynb) | [final-report](./semantic-segmentation/semantic-segmentation-final-report.pdf) |
-| Object Detection (Fast R-CNN) | [object-detection](./object-detection/) | [pre-report](./object-detection/object-detection-pre-report.pdf) | [.ipynb](./object-detection/object-detection-implementation.ipynb) | [final-report](./object-detection/object-detection-final-report.pdf) |
+- **ResNet** — Deep Residual Learning for Image Recognition
+- **GAN** — Generative Adversarial Networks
+- **CycleGAN** — Unpaired Image-to-Image Translation
+- **Style Transfer** — Neural Style Transfer
+- **Vision Transformer** — Image Classification with Transformers
+- **Semantic Segmentation** — Pixel-level Image Segmentation
+- **Object Detection** — Fast R-CNN
+
+각 폴더에는 `pre-report`(사전 리뷰), `implementation`(구현 코드), `final-report`(최종 보고서) 세 가지 파일이 포함되어 있습니다.
 
 ### 자료 구성 안내
 
@@ -37,15 +37,15 @@ This repository contains pre-reports (initial paper summaries), implementations 
 
 ### Paper List
 
-| Topic | Folder | Pre-report | Implementation | Final Report |
-|---|---|---|---|---|
-| ResNet | [resnet](./resnet/) | [pre-report](./resnet/resnet-pre-report.pdf) | [.ipynb](./resnet/resnet-implementation.ipynb) | [final-report](./resnet/resnet-final-report.pdf) |
-| GAN | [gan](./gan/) | [pre-report](./gan/gan-pre-report.pdf) | [.ipynb](./gan/gan-implementation.ipynb) | [final-report](./gan/gan-final-report.pdf) |
-| CycleGAN | [cyclegan](./cyclegan/) | [pre-report](./cyclegan/cyclegan-pre-report.pdf) | [.ipynb](./cyclegan/cyclegan-implementation.ipynb) | [final-report](./cyclegan/cyclegan-final-report.pdf) |
-| Style Transfer | [style-transfer](./style-transfer/) | [pre-report](./style-transfer/style-transfer-pre-report.pdf) | [.ipynb](./style-transfer/style-transfer-implementation.ipynb) | [final-report](./style-transfer/style-transfer-final-report.pdf) |
-| Vision Transformer | [vision-transformer](./vision-transformer/) | [pre-report](./vision-transformer/vision-transformer-pre-report.pdf) | [.ipynb](./vision-transformer/vision-transformer-implementation.ipynb) | [final-report](./vision-transformer/vision-transformer-final-report.pdf) |
-| Semantic Segmentation | [semantic-segmentation](./semantic-segmentation/) | [pre-report](./semantic-segmentation/semantic-segmentation-pre-report.pdf) | [.ipynb](./semantic-segmentation/semantic-segmentation-implementation.ipynb) | [final-report](./semantic-segmentation/semantic-segmentation-final-report.pdf) |
-| Object Detection (Fast R-CNN) | [object-detection](./object-detection/) | [pre-report](./object-detection/object-detection-pre-report.pdf) | [.ipynb](./object-detection/object-detection-implementation.ipynb) | [final-report](./object-detection/object-detection-final-report.pdf) |
+- **ResNet** — Deep Residual Learning for Image Recognition
+- **GAN** — Generative Adversarial Networks
+- **CycleGAN** — Unpaired Image-to-Image Translation
+- **Style Transfer** — Neural Style Transfer
+- **Vision Transformer** — Image Classification with Transformers
+- **Semantic Segmentation** — Pixel-level Image Segmentation
+- **Object Detection** — Fast R-CNN
+
+Each folder contains three files: `pre-report` (initial summary), `implementation` (hands-on code), and `final-report` (final conclusions).
 
 ### File Types
 
